@@ -48,16 +48,18 @@ A JSON array of all listed companies. Updated weekly.
 | `nmc` | number | Circulating market cap (CNY × 1000) |
 | `turnoverratio` | number | Turnover ratio (%) |
 
+**Total listed companies: 5,568** — see [companies.md](companies.md) for the full list.
+
 **Stock types:**
 
 | stock_type | Description | Count |
 |---|---|---|
-| `sh_a` | Shanghai A-shares (上交所A股) | ~1,703 |
-| `sz_a` | Shenzhen A-shares (深交所A股) | ~2,884 |
-| `sh_b` | Shanghai B-shares (上交所B股) | ~41 |
-| `sz_b` | Shenzhen B-shares (深交所B股) | ~38 |
-| `kcb` | STAR Market / Sci-Tech Innovation Board (科创板) | ~604 |
-| `hs_bjs` | Beijing Stock Exchange (北交所) | ~298 |
+| `sh_a` | Shanghai A-shares (上交所A股) | 1,703 |
+| `sz_a` | Shenzhen A-shares (深交所A股) | 2,884 |
+| `sh_b` | Shanghai B-shares (上交所B股) | 41 |
+| `sz_b` | Shenzhen B-shares (深交所B股) | 38 |
+| `kcb` | STAR Market / Sci-Tech Innovation Board (科创板) | 604 |
+| `hs_bjs` | Beijing Stock Exchange (北交所) | 298 |
 
 **Example entries:**
 
