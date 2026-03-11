@@ -1,7 +1,7 @@
 # Free China A-Share Daily Stock Data
 
 Daily China stock market data for all A-share, B-share, STAR Market (科创板) and Beijing Stock Exchange (北交所) listed companies.
-Data is sourced from Sina Finance and updated automatically after each trading day.
+Updated automatically after each trading day.
 
 ---
 
